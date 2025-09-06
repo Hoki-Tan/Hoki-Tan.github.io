@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: hokitan.xyz/sitemap.xml

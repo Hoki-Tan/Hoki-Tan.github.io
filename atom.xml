@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>hokitan.xyz/</id>
+    <title>Hokit Blog | 好吉小站</title>
+    <updated>2025-09-06T20:06:22.733Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>Hokit</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="hokitan.xyz/"/>
+    <link rel="self" href="hokitan.xyz/atom.xml"/>
+    <logo>https://img.alicdn.com/imgextra/i2/3343836081/O1CN01DK4pig1un9Z4a4h1m_!!3343836081.png</logo>
+    <icon>hokitan.xyz/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2025 © Hokit</rights>
+    <entry>
+        <title type="html"><![CDATA[Unity 客户端面试]]></title>
+        <id>hokitan.xyz/posts/Unity客户端面试</id>
+        <link href="hokitan.xyz/posts/Unity客户端面试"/>
+        <updated>2023-02-01T22:44:00.000Z</updated>
+        <content type="html"><![CDATA[<h1>面试</h1>
+<h2>🌙Unity</h2>
+<h3>生命周期问题</h3>
+<ul>
+<li>
+<p><strong>Awake</strong></p>
+<p>当一个脚本实例被载入时Awake被调用。我们大多在这个类中完成成员变量的初始化</p>
+</li>
+</ul>
+<br/><p>访问 <a href="hokitan.xyz/posts/Unity客户端面试" target="_blank">hokitan.xyz/posts/Unity客户端面试</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Hokit</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-05-25T16:02:59.051Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C# 设计模式]]></title>
+        <id>hokitan.xyz/posts/设计模式</id>
+        <link href="hokitan.xyz/posts/设计模式"/>
+        <updated>2022-06-30T21:38:47.000Z</updated>
+        <content type="html"><![CDATA[<h1>C#设计模式</h1>
+<h2>设计模式概述</h2>
+<p>设计模式共<strong>23</strong>种。主要分为三部分：创建型模式、机构型模式、行为型模式。</p>
+<p>**创建型模式：**所有的模式都涉及到创建对象实例的方式。</p>
+<br/><p>访问 <a href="hokitan.xyz/posts/设计模式" target="_blank">hokitan.xyz/posts/设计模式</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Hokit</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-05-25T11:52:51.687Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AssetBundle包 同步异步加载]]></title>
+        <id>hokitan.xyz/posts/AssetBundle 同步与异步加载</id>
+        <link href="hokitan.xyz/posts/AssetBundle 同步与异步加载"/>
+        <updated>2022-07-30T17:19:47.000Z</updated>
+        <content type="html"><![CDATA[<p>#　AssetBundle 同步与异步加载</p>
+<h2>AssetBundle相关Api</h2>
+<h3>[AssetBundle](<a href="https://docs.unity.cn/cn/202">https://docs.unity.cn/cn/202</a></h3>
+<br/><p>访问 <a href="hokitan.xyz/posts/AssetBundle 同步与异步加载" target="_blank">hokitan.xyz/posts/AssetBundle 同步与异步加载</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Hokit</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-07-30T09:22:53.152Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity 生命周期]]></title>
+        <id>hokitan.xyz/posts/Unity脚本生命周期</id>
+        <link href="hokitan.xyz/posts/Unity脚本生命周期"/>
+        <updated>2022-06-05T14:25:45.000Z</updated>
+        <content type="html"><![CDATA[<h1>Unity生命周期</h1>
+<h3>Unity生命周期图</h3>
+<p>![](<a href="https://raw.githubusercontent.com/MCIBlueMoon/PicGO_Img/main/">https://raw.githubusercontent.com/MCIBlueMoon/PicGO_Img/main/</a></p>
+<br/><p>访问 <a href="hokitan.xyz/posts/Unity脚本生命周期" target="_blank">hokitan.xyz/posts/Unity脚本生命周期</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Hokit</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-07-02T13:02:43.644Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity 游戏AI之行为树]]></title>
+        <id>hokitan.xyz/posts/Unity AI之行为树</id>
+        <link href="hokitan.xyz/posts/Unity AI之行为树"/>
+        <updated>2022-06-05T09:30:44.000Z</updated>
+        <content type="html"><![CDATA[<h1>Unity 游戏AI之行为树</h1>
+<h2><strong>游戏AI - 行为树Part1：简介</strong></h2>
+<p>游戏中的AI，大多数都是按照规则设定好的，没有太多花哨的技术。原因有几个：</p>
+<p>一是出于风险成本的考虑，用一个</p>
+<br/><p>访问 <a href="hokitan.xyz/posts/Unity AI之行为树" target="_blank">hokitan.xyz/posts/Unity AI之行为树</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Hokit</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-07-02T13:02:40.178Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C# 之Yield Return语法的作用和好处]]></title>
+        <id>hokitan.xyz/posts/C Sharp之Yield Return语法的作用和好处</id>
+        <link href="hokitan.xyz/posts/C Sharp之Yield Return语法的作用和好处"/>
+        <updated>2022-06-01T15:01:31.000Z</updated>
+        <content type="html"><![CDATA[<p>首先我贴出平时正常输出偶数集合的办法</p>
+<pre><code class="language-C#">/*
+ *
+ *  学习Yield Return 语法
+ *  使用两个方法，显示1 - 100之间的全部偶数
+ * 
+ * 
+ */
+
+usin</code></pre>
+<br/><p>访问 <a href="hokitan.xyz/posts/C Sharp之Yield Return语法的作用和好处" target="_blank">hokitan.xyz/posts/C Sharp之Yield Return语法的作用和好处</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Hokit</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-07-02T13:02:33.444Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C# 连接数据库]]></title>
+        <id>hokitan.xyz/posts/CSharp-连接数据库</id>
+        <link href="hokitan.xyz/posts/CSharp-连接数据库"/>
+        <updated>2022-05-30T20:51:40.000Z</updated>
+        <content type="html"><![CDATA[<h1>C# 连接数据库</h1>
+<h2>c# 连接数据库的步骤，和相关的方法调用</h2>
+<pre><code class="language-csharp">			//第一步：创建Connection 数据库连接对象
+            SqlConnect</code></pre>
+<br/><p>访问 <a href="hokitan.xyz/posts/CSharp-连接数据库" target="_blank">hokitan.xyz/posts/CSharp-连接数据库</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Hokit</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-07-02T13:02:24.989Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C# Array、ArrayList和List的区别]]></title>
+        <id>hokitan.xyz/posts/C Sharp之Array、ArrayList和List的区别</id>
+        <link href="hokitan.xyz/posts/C Sharp之Array、ArrayList和List的区别"/>
+        <updated>2022-05-30T17:02:23.000Z</updated>
+        <content type="html"><![CDATA[<h1>C#Array、ArrayList和List的区别</h1>
+<h3>Array</h3>
+<p>​		<strong>Array</strong> 类是 C# 中所有数组的基类，它是在 System 命名空间中定义。Array 类提供了各种</p>
+<br/><p>访问 <a href="hokitan.xyz/posts/C Sharp之Array、ArrayList和List的区别" target="_blank">hokitan.xyz/posts/C Sharp之Array、ArrayList和List的区别</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Hokit</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-07-02T13:02:12.200Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>hokitan.xyz/posts/hello-world</id>
+        <link href="hokitan.xyz/posts/hello-world"/>
+        <updated>2025-09-05T19:30:23.176Z</updated>
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check [documentation](<a href="https://hex">https://hex</a></p>
+<br/><p>访问 <a href="hokitan.xyz/posts/hello-world" target="_blank">hokitan.xyz/posts/hello-world</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Hokit</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-05-31T07:06:15.088Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello, Valaxy!]]></title>
+        <id>hokitan.xyz/posts/hello-valaxy</id>
+        <link href="hokitan.xyz/posts/hello-valaxy"/>
+        <updated>2022-04-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+<br/><p>访问 <a href="hokitan.xyz/posts/hello-valaxy" target="_blank">hokitan.xyz/posts/hello-valaxy</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Hokit</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-04-01T00:00:00.000Z</published>
+    </entry>
+</feed>

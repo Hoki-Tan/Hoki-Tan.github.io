@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>hokitan.xyz/</id>
     <title>Hokit Blog | 好吉小站</title>
-    <updated>2025-09-22T16:33:08.816Z</updated>
+    <updated>2025-09-22T17:35:39.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Hokit</name>
@@ -15,6 +15,43 @@
     <logo>https://img.alicdn.com/imgextra/i2/3343836081/O1CN01DK4pig1un9Z4a4h1m_!!3343836081.png</logo>
     <icon>hokitan.xyz/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2025 © Hokit</rights>
+    <entry>
+        <title type="html"><![CDATA[Unity 游戏AI之行为树]]></title>
+        <id>hokitan.xyz/posts/Unity AI之行为树</id>
+        <link href="hokitan.xyz/posts/Unity AI之行为树"/>
+        <updated>2022-06-05T09:30:44.000Z</updated>
+        <content type="html"><![CDATA[<h1>Unity 游戏AI之行为树</h1>
+<h2><strong>游戏AI - 行为树Part1：简介</strong></h2>
+<p>游戏中的AI，大多数都是按照规则设定好的，没有太多花哨的技术。原因有几个：</p>
+<p>一是出于风险成本的考虑，用一个</p>
+<br/><p>访问 <a href="hokitan.xyz/posts/Unity AI之行为树" target="_blank">hokitan.xyz/posts/Unity AI之行为树</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Hokit</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-09-22T17:31:56.425Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[shader入门学习]]></title>
+        <id>hokitan.xyz/posts/Shader</id>
+        <link href="hokitan.xyz/posts/Shader"/>
+        <updated>2025-03-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h1>Shader开发</h1>
+<h2>坐标空间转换</h2>
+<h3>一、坐标空间</h3>
+<blockquote>
+<p>坐标空间是什么?</p>
+</blockquote>
+<p><ColorText color="red"><strong>坐标空间是一个用于描述和定位物体位置的数学概念</strong>。&lt;</p>
+<br/><p>访问 <a href="hokitan.xyz/posts/Shader" target="_blank">hokitan.xyz/posts/Shader</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Hokit</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-09-22T17:23:13.699Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[C# 之Yield Return语法的作用和好处]]></title>
         <id>hokitan.xyz/posts/C Sharp之Yield Return语法的作用和好处</id>
@@ -53,23 +90,6 @@ using </code></pre>
             <uri>https://valaxy.site</uri>
         </author>
         <published>2025-09-22T15:50:25.980Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity 游戏AI之行为树]]></title>
-        <id>hokitan.xyz/posts/Unity AI之行为树</id>
-        <link href="hokitan.xyz/posts/Unity AI之行为树"/>
-        <updated>2022-06-05T09:30:44.000Z</updated>
-        <content type="html"><![CDATA[<h1>Unity 游戏AI之行为树</h1>
-<h2><strong>游戏AI - 行为树Part1：简介</strong></h2>
-<p>游戏中的AI，大多数都是按照规则设定好的，没有太多花哨的技术。原因有几个：</p>
-<p>一是出于风险成本的考虑，用一个</p>
-<br/><p>访问 <a href="hokitan.xyz/posts/Unity AI之行为树" target="_blank">hokitan.xyz/posts/Unity AI之行为树</a> 阅读全文。</p>]]></content>
-        <author>
-            <name>Hokit</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2025-09-22T15:50:01.080Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Unity 生命周期]]></title>
@@ -128,26 +148,6 @@ using </code></pre>
             <uri>https://valaxy.site</uri>
         </author>
         <published>2025-09-22T15:43:19.951Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[shader入门学习]]></title>
-        <id>hokitan.xyz/posts/Shader</id>
-        <link href="hokitan.xyz/posts/Shader"/>
-        <updated>2025-03-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<h1>Shader开发</h1>
-<h2>坐标空间转换</h2>
-<h3>一、坐标空间</h3>
-<blockquote>
-<p>坐标空间是什么?</p>
-</blockquote>
-<p><ColorText color="red"><strong>坐标空间是一个用于描述和定位物体位置的数学概念</strong>。&lt;</p>
-<br/><p>访问 <a href="hokitan.xyz/posts/Shader" target="_blank">hokitan.xyz/posts/Shader</a> 阅读全文。</p>]]></content>
-        <author>
-            <name>Hokit</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2025-09-22T15:41:46.055Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[C# 设计模式]]></title>

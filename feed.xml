@@ -4,7 +4,7 @@
         <title>Hokit Blog | 好吉小站</title>
         <link>hokitan.xyz/</link>
         <description>世界上只有一种英雄主义，就是在认清生活真相之后依然热爱生活。</description>
-        <lastBuildDate>Mon, 22 Sep 2025 16:33:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Sep 2025 17:35:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -14,6 +14,33 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2025 © Hokit</copyright>
         <atom:link href="hokitan.xyz/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Unity 游戏AI之行为树]]></title>
+            <link>hokitan.xyz/posts/Unity AI之行为树</link>
+            <guid isPermaLink="false">hokitan.xyz/posts/Unity AI之行为树</guid>
+            <pubDate>Mon, 22 Sep 2025 17:31:56 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>Unity 游戏AI之行为树</h1>
+<h2><strong>游戏AI - 行为树Part1：简介</strong></h2>
+<p>游戏中的AI，大多数都是按照规则设定好的，没有太多花哨的技术。原因有几个：</p>
+<p>一是出于风险成本的考虑，用一个</p>
+<br/><p>访问 <a href="hokitan.xyz/posts/Unity AI之行为树" target="_blank">hokitan.xyz/posts/Unity AI之行为树</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (Hokit)</author>
+        </item>
+        <item>
+            <title><![CDATA[shader入门学习]]></title>
+            <link>hokitan.xyz/posts/Shader</link>
+            <guid isPermaLink="false">hokitan.xyz/posts/Shader</guid>
+            <pubDate>Mon, 22 Sep 2025 17:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>Shader开发</h1>
+<h2>坐标空间转换</h2>
+<h3>一、坐标空间</h3>
+<blockquote>
+<p>坐标空间是什么?</p>
+</blockquote>
+<p><ColorText color="red"><strong>坐标空间是一个用于描述和定位物体位置的数学概念</strong>。&lt;</p>
+<br/><p>访问 <a href="hokitan.xyz/posts/Shader" target="_blank">hokitan.xyz/posts/Shader</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (Hokit)</author>
+        </item>
         <item>
             <title><![CDATA[C# 之Yield Return语法的作用和好处]]></title>
             <link>hokitan.xyz/posts/C Sharp之Yield Return语法的作用和好处</link>
@@ -41,18 +68,6 @@ using </code></pre>
 <h2>AssetBundle相关Api</h2>
 <h3>[AssetBundle](<a href="https://docs.unity.cn/cn/2022.1/Script">https://docs.unity.cn/cn/2022.1/Script</a></h3>
 <br/><p>访问 <a href="hokitan.xyz/posts/AssetBundle 同步与异步加载" target="_blank">hokitan.xyz/posts/AssetBundle 同步与异步加载</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (Hokit)</author>
-        </item>
-        <item>
-            <title><![CDATA[Unity 游戏AI之行为树]]></title>
-            <link>hokitan.xyz/posts/Unity AI之行为树</link>
-            <guid isPermaLink="false">hokitan.xyz/posts/Unity AI之行为树</guid>
-            <pubDate>Mon, 22 Sep 2025 15:50:01 GMT</pubDate>
-            <content:encoded><![CDATA[<h1>Unity 游戏AI之行为树</h1>
-<h2><strong>游戏AI - 行为树Part1：简介</strong></h2>
-<p>游戏中的AI，大多数都是按照规则设定好的，没有太多花哨的技术。原因有几个：</p>
-<p>一是出于风险成本的考虑，用一个</p>
-<br/><p>访问 <a href="hokitan.xyz/posts/Unity AI之行为树" target="_blank">hokitan.xyz/posts/Unity AI之行为树</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (Hokit)</author>
         </item>
         <item>
@@ -96,21 +111,6 @@ using </code></pre>
 -l, 以每行一个的格式列出文件, l for long
 -a, 列出包含隐藏文件的</code></pre>
 <br/><p>访问 <a href="hokitan.xyz/posts/Git&&CMD" target="_blank">hokitan.xyz/posts/Git&&CMD</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (Hokit)</author>
-        </item>
-        <item>
-            <title><![CDATA[shader入门学习]]></title>
-            <link>hokitan.xyz/posts/Shader</link>
-            <guid isPermaLink="false">hokitan.xyz/posts/Shader</guid>
-            <pubDate>Mon, 22 Sep 2025 15:41:46 GMT</pubDate>
-            <content:encoded><![CDATA[<h1>Shader开发</h1>
-<h2>坐标空间转换</h2>
-<h3>一、坐标空间</h3>
-<blockquote>
-<p>坐标空间是什么?</p>
-</blockquote>
-<p><ColorText color="red"><strong>坐标空间是一个用于描述和定位物体位置的数学概念</strong>。&lt;</p>
-<br/><p>访问 <a href="hokitan.xyz/posts/Shader" target="_blank">hokitan.xyz/posts/Shader</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (Hokit)</author>
         </item>
         <item>

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: hokitan.xyz/sitemap.xml
+Sitemap: www.hokitan.xyz/sitemap.xml

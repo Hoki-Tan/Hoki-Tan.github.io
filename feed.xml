@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Hokit Blog | 好吉小站</title>
-        <link>hokitan.xyz/</link>
+        <link>www.hokitan.xyz/</link>
         <description>世界上只有一种英雄主义，就是在认清生活真相之后依然热爱生活。</description>
-        <lastBuildDate>Mon, 22 Sep 2025 17:35:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Sep 2025 17:53:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
             <title>Hokit Blog | 好吉小站</title>
             <url>https://img.alicdn.com/imgextra/i2/3343836081/O1CN01DK4pig1un9Z4a4h1m_!!3343836081.png</url>
-            <link>hokitan.xyz/</link>
+            <link>www.hokitan.xyz/</link>
         </image>
         <copyright>CC BY-NC-SA 4.0 2025 © Hokit</copyright>
-        <atom:link href="hokitan.xyz/feed.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="www.hokitan.xyz/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Unity 游戏AI之行为树]]></title>
-            <link>hokitan.xyz/posts/Unity AI之行为树</link>
-            <guid isPermaLink="false">hokitan.xyz/posts/Unity AI之行为树</guid>
+            <link>www.hokitan.xyz/posts/Unity AI之行为树</link>
+            <guid isPermaLink="false">www.hokitan.xyz/posts/Unity AI之行为树</guid>
             <pubDate>Mon, 22 Sep 2025 17:31:56 GMT</pubDate>
             <content:encoded><![CDATA[<h1>Unity 游戏AI之行为树</h1>
 <h2><strong>游戏AI - 行为树Part1：简介</strong></h2>
 <p>游戏中的AI，大多数都是按照规则设定好的，没有太多花哨的技术。原因有几个：</p>
 <p>一是出于风险成本的考虑，用一个</p>
-<br/><p>访问 <a href="hokitan.xyz/posts/Unity AI之行为树" target="_blank">hokitan.xyz/posts/Unity AI之行为树</a> 阅读全文。</p>]]></content:encoded>
+<br/><p>访问 <a href="www.hokitan.xyz/posts/Unity AI之行为树" target="_blank">www.hokitan.xyz/posts/Unity AI之行为树</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (Hokit)</author>
         </item>
         <item>
             <title><![CDATA[shader入门学习]]></title>
-            <link>hokitan.xyz/posts/Shader</link>
-            <guid isPermaLink="false">hokitan.xyz/posts/Shader</guid>
+            <link>www.hokitan.xyz/posts/Shader</link>
+            <guid isPermaLink="false">www.hokitan.xyz/posts/Shader</guid>
             <pubDate>Mon, 22 Sep 2025 17:23:13 GMT</pubDate>
             <content:encoded><![CDATA[<h1>Shader开发</h1>
 <h2>坐标空间转换</h2>
@@ -38,13 +38,13 @@
 <p>坐标空间是什么?</p>
 </blockquote>
 <p><ColorText color="red"><strong>坐标空间是一个用于描述和定位物体位置的数学概念</strong>。&lt;</p>
-<br/><p>访问 <a href="hokitan.xyz/posts/Shader" target="_blank">hokitan.xyz/posts/Shader</a> 阅读全文。</p>]]></content:encoded>
+<br/><p>访问 <a href="www.hokitan.xyz/posts/Shader" target="_blank">www.hokitan.xyz/posts/Shader</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (Hokit)</author>
         </item>
         <item>
             <title><![CDATA[C# 之Yield Return语法的作用和好处]]></title>
-            <link>hokitan.xyz/posts/C Sharp之Yield Return语法的作用和好处</link>
-            <guid isPermaLink="false">hokitan.xyz/posts/C Sharp之Yield Return语法的作用和好处</guid>
+            <link>www.hokitan.xyz/posts/C Sharp之Yield Return语法的作用和好处</link>
+            <guid isPermaLink="false">www.hokitan.xyz/posts/C Sharp之Yield Return语法的作用和好处</guid>
             <pubDate>Mon, 22 Sep 2025 15:51:21 GMT</pubDate>
             <content:encoded><![CDATA[<p>首先我贴出平时正常输出偶数集合的办法</p>
 <pre><code class="language-C#">/*
@@ -56,35 +56,35 @@
  */
 
 using </code></pre>
-<br/><p>访问 <a href="hokitan.xyz/posts/C Sharp之Yield Return语法的作用和好处" target="_blank">hokitan.xyz/posts/C Sharp之Yield Return语法的作用和好处</a> 阅读全文。</p>]]></content:encoded>
+<br/><p>访问 <a href="www.hokitan.xyz/posts/C Sharp之Yield Return语法的作用和好处" target="_blank">www.hokitan.xyz/posts/C Sharp之Yield Return语法的作用和好处</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (Hokit)</author>
         </item>
         <item>
             <title><![CDATA[AssetBundle包 同步异步加载]]></title>
-            <link>hokitan.xyz/posts/AssetBundle 同步与异步加载</link>
-            <guid isPermaLink="false">hokitan.xyz/posts/AssetBundle 同步与异步加载</guid>
+            <link>www.hokitan.xyz/posts/AssetBundle 同步与异步加载</link>
+            <guid isPermaLink="false">www.hokitan.xyz/posts/AssetBundle 同步与异步加载</guid>
             <pubDate>Mon, 22 Sep 2025 15:50:25 GMT</pubDate>
             <content:encoded><![CDATA[<h1>AssetBundle 同步与异步加载</h1>
 <h2>AssetBundle相关Api</h2>
 <h3>[AssetBundle](<a href="https://docs.unity.cn/cn/2022.1/Script">https://docs.unity.cn/cn/2022.1/Script</a></h3>
-<br/><p>访问 <a href="hokitan.xyz/posts/AssetBundle 同步与异步加载" target="_blank">hokitan.xyz/posts/AssetBundle 同步与异步加载</a> 阅读全文。</p>]]></content:encoded>
+<br/><p>访问 <a href="www.hokitan.xyz/posts/AssetBundle 同步与异步加载" target="_blank">www.hokitan.xyz/posts/AssetBundle 同步与异步加载</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (Hokit)</author>
         </item>
         <item>
             <title><![CDATA[Unity 生命周期]]></title>
-            <link>hokitan.xyz/posts/Unity脚本生命周期</link>
-            <guid isPermaLink="false">hokitan.xyz/posts/Unity脚本生命周期</guid>
+            <link>www.hokitan.xyz/posts/Unity脚本生命周期</link>
+            <guid isPermaLink="false">www.hokitan.xyz/posts/Unity脚本生命周期</guid>
             <pubDate>Mon, 22 Sep 2025 15:49:37 GMT</pubDate>
             <content:encoded><![CDATA[<h1>Unity生命周期</h1>
 <h3>Unity生命周期图</h3>
 <p>![](<a href="https://raw.githubusercontent.com/MCIBlueMoon/PicGO_Img/main/06-05">https://raw.githubusercontent.com/MCIBlueMoon/PicGO_Img/main/06-05</a></p>
-<br/><p>访问 <a href="hokitan.xyz/posts/Unity脚本生命周期" target="_blank">hokitan.xyz/posts/Unity脚本生命周期</a> 阅读全文。</p>]]></content:encoded>
+<br/><p>访问 <a href="www.hokitan.xyz/posts/Unity脚本生命周期" target="_blank">www.hokitan.xyz/posts/Unity脚本生命周期</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (Hokit)</author>
         </item>
         <item>
             <title><![CDATA[Unity 客户端面试]]></title>
-            <link>hokitan.xyz/posts/Unity客户端面试</link>
-            <guid isPermaLink="false">hokitan.xyz/posts/Unity客户端面试</guid>
+            <link>www.hokitan.xyz/posts/Unity客户端面试</link>
+            <guid isPermaLink="false">www.hokitan.xyz/posts/Unity客户端面试</guid>
             <pubDate>Mon, 22 Sep 2025 15:46:24 GMT</pubDate>
             <content:encoded><![CDATA[<h1>面试</h1>
 <h2>🌙Unity</h2>
@@ -98,68 +98,68 @@ using </code></pre>
 <p>**OnEnab</p>
 </li>
 </ul>
-<br/><p>访问 <a href="hokitan.xyz/posts/Unity客户端面试" target="_blank">hokitan.xyz/posts/Unity客户端面试</a> 阅读全文。</p>]]></content:encoded>
+<br/><p>访问 <a href="www.hokitan.xyz/posts/Unity客户端面试" target="_blank">www.hokitan.xyz/posts/Unity客户端面试</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (Hokit)</author>
         </item>
         <item>
             <title><![CDATA[命令行指令和git学习]]></title>
-            <link>hokitan.xyz/posts/Git&amp;&amp;CMD</link>
-            <guid isPermaLink="false">hokitan.xyz/posts/Git&amp;&amp;CMD</guid>
+            <link>www.hokitan.xyz/posts/Git&amp;&amp;CMD</link>
+            <guid isPermaLink="false">www.hokitan.xyz/posts/Git&amp;&amp;CMD</guid>
             <pubDate>Mon, 22 Sep 2025 15:43:19 GMT</pubDate>
             <content:encoded><![CDATA[<h2>CMD常用目录</h2>
 <pre><code class="language-tex">-命令行指令ls, 列出目录(文件夹)下文件, ls for list
 -l, 以每行一个的格式列出文件, l for long
 -a, 列出包含隐藏文件的</code></pre>
-<br/><p>访问 <a href="hokitan.xyz/posts/Git&&CMD" target="_blank">hokitan.xyz/posts/Git&&CMD</a> 阅读全文。</p>]]></content:encoded>
+<br/><p>访问 <a href="www.hokitan.xyz/posts/Git&&CMD" target="_blank">www.hokitan.xyz/posts/Git&&CMD</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (Hokit)</author>
         </item>
         <item>
             <title><![CDATA[C# 设计模式]]></title>
-            <link>hokitan.xyz/posts/设计模式</link>
-            <guid isPermaLink="false">hokitan.xyz/posts/设计模式</guid>
+            <link>www.hokitan.xyz/posts/设计模式</link>
+            <guid isPermaLink="false">www.hokitan.xyz/posts/设计模式</guid>
             <pubDate>Mon, 22 Sep 2025 15:38:18 GMT</pubDate>
             <content:encoded><![CDATA[<h1>C#设计模式</h1>
 <h2>设计模式概述</h2>
 <p>设计模式共<strong>23</strong>种。主要分为三部分：创建型模式、机构型模式、行为型模式。</p>
 <p>**创建型模式：**所有的模式都涉及到创建对象实例的方式。</p>
 <p>**结构型模</p>
-<br/><p>访问 <a href="hokitan.xyz/posts/设计模式" target="_blank">hokitan.xyz/posts/设计模式</a> 阅读全文。</p>]]></content:encoded>
+<br/><p>访问 <a href="www.hokitan.xyz/posts/设计模式" target="_blank">www.hokitan.xyz/posts/设计模式</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (Hokit)</author>
         </item>
         <item>
             <title><![CDATA[C# 连接数据库]]></title>
-            <link>hokitan.xyz/posts/CSharp-连接数据库</link>
-            <guid isPermaLink="false">hokitan.xyz/posts/CSharp-连接数据库</guid>
+            <link>www.hokitan.xyz/posts/CSharp-连接数据库</link>
+            <guid isPermaLink="false">www.hokitan.xyz/posts/CSharp-连接数据库</guid>
             <pubDate>Mon, 22 Sep 2025 15:24:41 GMT</pubDate>
             <content:encoded><![CDATA[<h1>C# 连接数据库</h1>
 <h2>c# 连接数据库的步骤，和相关的方法调用</h2>
 <pre><code class="language-csharp">			//第一步：创建Connection 数据库连接对象
             SqlConnect</code></pre>
-<br/><p>访问 <a href="hokitan.xyz/posts/CSharp-连接数据库" target="_blank">hokitan.xyz/posts/CSharp-连接数据库</a> 阅读全文。</p>]]></content:encoded>
+<br/><p>访问 <a href="www.hokitan.xyz/posts/CSharp-连接数据库" target="_blank">www.hokitan.xyz/posts/CSharp-连接数据库</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (Hokit)</author>
         </item>
         <item>
             <title><![CDATA[C# Array、ArrayList和List的区别]]></title>
-            <link>hokitan.xyz/posts/C Sharp之Array、ArrayList和List的区别</link>
-            <guid isPermaLink="false">hokitan.xyz/posts/C Sharp之Array、ArrayList和List的区别</guid>
+            <link>www.hokitan.xyz/posts/C Sharp之Array、ArrayList和List的区别</link>
+            <guid isPermaLink="false">www.hokitan.xyz/posts/C Sharp之Array、ArrayList和List的区别</guid>
             <pubDate>Mon, 22 Sep 2025 15:24:18 GMT</pubDate>
             <content:encoded><![CDATA[<h1>C#Array、ArrayList和List的区别</h1>
 <h3>Array</h3>
 <p>​		<strong>Array</strong> 类是 C# 中所有数组的基类，它是在 System 命名空间中定义。Array 类提供了各种</p>
-<br/><p>访问 <a href="hokitan.xyz/posts/C Sharp之Array、ArrayList和List的区别" target="_blank">hokitan.xyz/posts/C Sharp之Array、ArrayList和List的区别</a> 阅读全文。</p>]]></content:encoded>
+<br/><p>访问 <a href="www.hokitan.xyz/posts/C Sharp之Array、ArrayList和List的区别" target="_blank">www.hokitan.xyz/posts/C Sharp之Array、ArrayList和List的区别</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (Hokit)</author>
         </item>
         <item>
             <title><![CDATA[Hello, Valaxy!]]></title>
-            <link>hokitan.xyz/posts/hello-valaxy</link>
-            <guid isPermaLink="false">hokitan.xyz/posts/hello-valaxy</guid>
+            <link>www.hokitan.xyz/posts/hello-valaxy</link>
+            <guid isPermaLink="false">www.hokitan.xyz/posts/hello-valaxy</guid>
             <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<h2>Valaxy</h2>
 <p>Next Generation Static Blog Framework.</p>
 <p>Write your first post!</p>
 <h2>Usage</h2>
 <p>Modify `valaxy</p>
-<br/><p>访问 <a href="hokitan.xyz/posts/hello-valaxy" target="_blank">hokitan.xyz/posts/hello-valaxy</a> 阅读全文。</p>]]></content:encoded>
+<br/><p>访问 <a href="www.hokitan.xyz/posts/hello-valaxy" target="_blank">www.hokitan.xyz/posts/hello-valaxy</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (Hokit)</author>
         </item>
     </channel>

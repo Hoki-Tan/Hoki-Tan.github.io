@@ -1,8 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Hokit Blog | 好吉小站",
-    "home_page_url": "hokitan.xyz/",
-    "feed_url": "hokitan.xyz/feed.json",
+    "home_page_url": "www.hokitan.xyz/",
+    "feed_url": "www.hokitan.xyz/feed.json",
     "description": "世界上只有一种英雄主义，就是在认清生活真相之后依然热爱生活。",
     "icon": "https://img.alicdn.com/imgextra/i2/3343836081/O1CN01DK4pig1un9Z4a4h1m_!!3343836081.png",
     "author": {
@@ -11,9 +11,9 @@
     },
     "items": [
         {
-            "id": "hokitan.xyz/posts/Unity AI之行为树",
-            "content_html": "<h1>Unity 游戏AI之行为树</h1>\n<h2><strong>游戏AI - 行为树Part1：简介</strong></h2>\n<p>游戏中的AI，大多数都是按照规则设定好的，没有太多花哨的技术。原因有几个：</p>\n<p>一是出于风险成本的考虑，用一个</p>\n<br/><p>访问 <a href=\"hokitan.xyz/posts/Unity AI之行为树\" target=\"_blank\">hokitan.xyz/posts/Unity AI之行为树</a> 阅读全文。</p>",
-            "url": "hokitan.xyz/posts/Unity AI之行为树",
+            "id": "www.hokitan.xyz/posts/Unity AI之行为树",
+            "content_html": "<h1>Unity 游戏AI之行为树</h1>\n<h2><strong>游戏AI - 行为树Part1：简介</strong></h2>\n<p>游戏中的AI，大多数都是按照规则设定好的，没有太多花哨的技术。原因有几个：</p>\n<p>一是出于风险成本的考虑，用一个</p>\n<br/><p>访问 <a href=\"www.hokitan.xyz/posts/Unity AI之行为树\" target=\"_blank\">www.hokitan.xyz/posts/Unity AI之行为树</a> 阅读全文。</p>",
+            "url": "www.hokitan.xyz/posts/Unity AI之行为树",
             "title": "Unity 游戏AI之行为树",
             "date_modified": "2022-06-05T09:30:44.000Z",
             "date_published": "2025-09-22T17:31:56.425Z",
@@ -23,9 +23,9 @@
             }
         },
         {
-            "id": "hokitan.xyz/posts/Shader",
-            "content_html": "<h1>Shader开发</h1>\n<h2>坐标空间转换</h2>\n<h3>一、坐标空间</h3>\n<blockquote>\n<p>坐标空间是什么?</p>\n</blockquote>\n<p><ColorText color=\"red\"><strong>坐标空间是一个用于描述和定位物体位置的数学概念</strong>。&lt;</p>\n<br/><p>访问 <a href=\"hokitan.xyz/posts/Shader\" target=\"_blank\">hokitan.xyz/posts/Shader</a> 阅读全文。</p>",
-            "url": "hokitan.xyz/posts/Shader",
+            "id": "www.hokitan.xyz/posts/Shader",
+            "content_html": "<h1>Shader开发</h1>\n<h2>坐标空间转换</h2>\n<h3>一、坐标空间</h3>\n<blockquote>\n<p>坐标空间是什么?</p>\n</blockquote>\n<p><ColorText color=\"red\"><strong>坐标空间是一个用于描述和定位物体位置的数学概念</strong>。&lt;</p>\n<br/><p>访问 <a href=\"www.hokitan.xyz/posts/Shader\" target=\"_blank\">www.hokitan.xyz/posts/Shader</a> 阅读全文。</p>",
+            "url": "www.hokitan.xyz/posts/Shader",
             "title": "shader入门学习",
             "date_modified": "2025-03-01T00:00:00.000Z",
             "date_published": "2025-09-22T17:23:13.699Z",
@@ -35,9 +35,9 @@
             }
         },
         {
-            "id": "hokitan.xyz/posts/C Sharp之Yield Return语法的作用和好处",
-            "content_html": "<p>首先我贴出平时正常输出偶数集合的办法</p>\n<pre><code class=\"language-C#\">/*\n *\n *  学习Yield Return 语法\n *  使用两个方法，显示1 - 100之间的全部偶数\n *\n *\n */\n\nusing </code></pre>\n<br/><p>访问 <a href=\"hokitan.xyz/posts/C Sharp之Yield Return语法的作用和好处\" target=\"_blank\">hokitan.xyz/posts/C Sharp之Yield Return语法的作用和好处</a> 阅读全文。</p>",
-            "url": "hokitan.xyz/posts/C Sharp之Yield Return语法的作用和好处",
+            "id": "www.hokitan.xyz/posts/C Sharp之Yield Return语法的作用和好处",
+            "content_html": "<p>首先我贴出平时正常输出偶数集合的办法</p>\n<pre><code class=\"language-C#\">/*\n *\n *  学习Yield Return 语法\n *  使用两个方法，显示1 - 100之间的全部偶数\n *\n *\n */\n\nusing </code></pre>\n<br/><p>访问 <a href=\"www.hokitan.xyz/posts/C Sharp之Yield Return语法的作用和好处\" target=\"_blank\">www.hokitan.xyz/posts/C Sharp之Yield Return语法的作用和好处</a> 阅读全文。</p>",
+            "url": "www.hokitan.xyz/posts/C Sharp之Yield Return语法的作用和好处",
             "title": "C# 之Yield Return语法的作用和好处",
             "date_modified": "2022-06-01T15:01:31.000Z",
             "date_published": "2025-09-22T15:51:21.387Z",
@@ -47,9 +47,9 @@
             }
         },
         {
-            "id": "hokitan.xyz/posts/AssetBundle 同步与异步加载",
-            "content_html": "<h1>AssetBundle 同步与异步加载</h1>\n<h2>AssetBundle相关Api</h2>\n<h3>[AssetBundle](<a href=\"https://docs.unity.cn/cn/2022.1/Script\">https://docs.unity.cn/cn/2022.1/Script</a></h3>\n<br/><p>访问 <a href=\"hokitan.xyz/posts/AssetBundle 同步与异步加载\" target=\"_blank\">hokitan.xyz/posts/AssetBundle 同步与异步加载</a> 阅读全文。</p>",
-            "url": "hokitan.xyz/posts/AssetBundle 同步与异步加载",
+            "id": "www.hokitan.xyz/posts/AssetBundle 同步与异步加载",
+            "content_html": "<h1>AssetBundle 同步与异步加载</h1>\n<h2>AssetBundle相关Api</h2>\n<h3>[AssetBundle](<a href=\"https://docs.unity.cn/cn/2022.1/Script\">https://docs.unity.cn/cn/2022.1/Script</a></h3>\n<br/><p>访问 <a href=\"www.hokitan.xyz/posts/AssetBundle 同步与异步加载\" target=\"_blank\">www.hokitan.xyz/posts/AssetBundle 同步与异步加载</a> 阅读全文。</p>",
+            "url": "www.hokitan.xyz/posts/AssetBundle 同步与异步加载",
             "title": "AssetBundle包 同步异步加载",
             "date_modified": "2022-07-30T17:19:47.000Z",
             "date_published": "2025-09-22T15:50:25.980Z",
@@ -59,9 +59,9 @@
             }
         },
         {
-            "id": "hokitan.xyz/posts/Unity脚本生命周期",
-            "content_html": "<h1>Unity生命周期</h1>\n<h3>Unity生命周期图</h3>\n<p>![](<a href=\"https://raw.githubusercontent.com/MCIBlueMoon/PicGO_Img/main/06-05\">https://raw.githubusercontent.com/MCIBlueMoon/PicGO_Img/main/06-05</a></p>\n<br/><p>访问 <a href=\"hokitan.xyz/posts/Unity脚本生命周期\" target=\"_blank\">hokitan.xyz/posts/Unity脚本生命周期</a> 阅读全文。</p>",
-            "url": "hokitan.xyz/posts/Unity脚本生命周期",
+            "id": "www.hokitan.xyz/posts/Unity脚本生命周期",
+            "content_html": "<h1>Unity生命周期</h1>\n<h3>Unity生命周期图</h3>\n<p>![](<a href=\"https://raw.githubusercontent.com/MCIBlueMoon/PicGO_Img/main/06-05\">https://raw.githubusercontent.com/MCIBlueMoon/PicGO_Img/main/06-05</a></p>\n<br/><p>访问 <a href=\"www.hokitan.xyz/posts/Unity脚本生命周期\" target=\"_blank\">www.hokitan.xyz/posts/Unity脚本生命周期</a> 阅读全文。</p>",
+            "url": "www.hokitan.xyz/posts/Unity脚本生命周期",
             "title": "Unity 生命周期",
             "date_modified": "2022-06-05T14:25:45.000Z",
             "date_published": "2025-09-22T15:49:37.442Z",
@@ -71,9 +71,9 @@
             }
         },
         {
-            "id": "hokitan.xyz/posts/Unity客户端面试",
-            "content_html": "<h1>面试</h1>\n<h2>🌙Unity</h2>\n<h3>生命周期问题</h3>\n<ul>\n<li>\n<p><strong>Awake</strong></p>\n<p>当一个脚本实例被载入时Awake被调用。我们大多在这个类中完成成员变量的初始化</p>\n</li>\n<li>\n<p>**OnEnab</p>\n</li>\n</ul>\n<br/><p>访问 <a href=\"hokitan.xyz/posts/Unity客户端面试\" target=\"_blank\">hokitan.xyz/posts/Unity客户端面试</a> 阅读全文。</p>",
-            "url": "hokitan.xyz/posts/Unity客户端面试",
+            "id": "www.hokitan.xyz/posts/Unity客户端面试",
+            "content_html": "<h1>面试</h1>\n<h2>🌙Unity</h2>\n<h3>生命周期问题</h3>\n<ul>\n<li>\n<p><strong>Awake</strong></p>\n<p>当一个脚本实例被载入时Awake被调用。我们大多在这个类中完成成员变量的初始化</p>\n</li>\n<li>\n<p>**OnEnab</p>\n</li>\n</ul>\n<br/><p>访问 <a href=\"www.hokitan.xyz/posts/Unity客户端面试\" target=\"_blank\">www.hokitan.xyz/posts/Unity客户端面试</a> 阅读全文。</p>",
+            "url": "www.hokitan.xyz/posts/Unity客户端面试",
             "title": "Unity 客户端面试",
             "date_modified": "2023-02-01T22:44:00.000Z",
             "date_published": "2025-09-22T15:46:24.741Z",
@@ -83,9 +83,9 @@
             }
         },
         {
-            "id": "hokitan.xyz/posts/Git&&CMD",
-            "content_html": "<h2>CMD常用目录</h2>\n<pre><code class=\"language-tex\">-命令行指令ls, 列出目录(文件夹)下文件, ls for list\n-l, 以每行一个的格式列出文件, l for long\n-a, 列出包含隐藏文件的</code></pre>\n<br/><p>访问 <a href=\"hokitan.xyz/posts/Git&&CMD\" target=\"_blank\">hokitan.xyz/posts/Git&&CMD</a> 阅读全文。</p>",
-            "url": "hokitan.xyz/posts/Git&&CMD",
+            "id": "www.hokitan.xyz/posts/Git&&CMD",
+            "content_html": "<h2>CMD常用目录</h2>\n<pre><code class=\"language-tex\">-命令行指令ls, 列出目录(文件夹)下文件, ls for list\n-l, 以每行一个的格式列出文件, l for long\n-a, 列出包含隐藏文件的</code></pre>\n<br/><p>访问 <a href=\"www.hokitan.xyz/posts/Git&&CMD\" target=\"_blank\">www.hokitan.xyz/posts/Git&&CMD</a> 阅读全文。</p>",
+            "url": "www.hokitan.xyz/posts/Git&&CMD",
             "title": "命令行指令和git学习",
             "date_modified": "2023-09-03T01:15:47.000Z",
             "date_published": "2025-09-22T15:43:19.951Z",
@@ -95,9 +95,9 @@
             }
         },
         {
-            "id": "hokitan.xyz/posts/设计模式",
-            "content_html": "<h1>C#设计模式</h1>\n<h2>设计模式概述</h2>\n<p>设计模式共<strong>23</strong>种。主要分为三部分：创建型模式、机构型模式、行为型模式。</p>\n<p>**创建型模式：**所有的模式都涉及到创建对象实例的方式。</p>\n<p>**结构型模</p>\n<br/><p>访问 <a href=\"hokitan.xyz/posts/设计模式\" target=\"_blank\">hokitan.xyz/posts/设计模式</a> 阅读全文。</p>",
-            "url": "hokitan.xyz/posts/设计模式",
+            "id": "www.hokitan.xyz/posts/设计模式",
+            "content_html": "<h1>C#设计模式</h1>\n<h2>设计模式概述</h2>\n<p>设计模式共<strong>23</strong>种。主要分为三部分：创建型模式、机构型模式、行为型模式。</p>\n<p>**创建型模式：**所有的模式都涉及到创建对象实例的方式。</p>\n<p>**结构型模</p>\n<br/><p>访问 <a href=\"www.hokitan.xyz/posts/设计模式\" target=\"_blank\">www.hokitan.xyz/posts/设计模式</a> 阅读全文。</p>",
+            "url": "www.hokitan.xyz/posts/设计模式",
             "title": "C# 设计模式",
             "date_modified": "2022-06-30T21:38:47.000Z",
             "date_published": "2025-09-22T15:38:18.273Z",
@@ -107,9 +107,9 @@
             }
         },
         {
-            "id": "hokitan.xyz/posts/CSharp-连接数据库",
-            "content_html": "<h1>C# 连接数据库</h1>\n<h2>c# 连接数据库的步骤，和相关的方法调用</h2>\n<pre><code class=\"language-csharp\">\t\t\t//第一步：创建Connection 数据库连接对象\n            SqlConnect</code></pre>\n<br/><p>访问 <a href=\"hokitan.xyz/posts/CSharp-连接数据库\" target=\"_blank\">hokitan.xyz/posts/CSharp-连接数据库</a> 阅读全文。</p>",
-            "url": "hokitan.xyz/posts/CSharp-连接数据库",
+            "id": "www.hokitan.xyz/posts/CSharp-连接数据库",
+            "content_html": "<h1>C# 连接数据库</h1>\n<h2>c# 连接数据库的步骤，和相关的方法调用</h2>\n<pre><code class=\"language-csharp\">\t\t\t//第一步：创建Connection 数据库连接对象\n            SqlConnect</code></pre>\n<br/><p>访问 <a href=\"www.hokitan.xyz/posts/CSharp-连接数据库\" target=\"_blank\">www.hokitan.xyz/posts/CSharp-连接数据库</a> 阅读全文。</p>",
+            "url": "www.hokitan.xyz/posts/CSharp-连接数据库",
             "title": "C# 连接数据库",
             "date_modified": "2022-05-30T20:51:40.000Z",
             "date_published": "2025-09-22T15:24:41.055Z",
@@ -119,9 +119,9 @@
             }
         },
         {
-            "id": "hokitan.xyz/posts/C Sharp之Array、ArrayList和List的区别",
-            "content_html": "<h1>C#Array、ArrayList和List的区别</h1>\n<h3>Array</h3>\n<p>​\t\t<strong>Array</strong> 类是 C# 中所有数组的基类，它是在 System 命名空间中定义。Array 类提供了各种</p>\n<br/><p>访问 <a href=\"hokitan.xyz/posts/C Sharp之Array、ArrayList和List的区别\" target=\"_blank\">hokitan.xyz/posts/C Sharp之Array、ArrayList和List的区别</a> 阅读全文。</p>",
-            "url": "hokitan.xyz/posts/C Sharp之Array、ArrayList和List的区别",
+            "id": "www.hokitan.xyz/posts/C Sharp之Array、ArrayList和List的区别",
+            "content_html": "<h1>C#Array、ArrayList和List的区别</h1>\n<h3>Array</h3>\n<p>​\t\t<strong>Array</strong> 类是 C# 中所有数组的基类，它是在 System 命名空间中定义。Array 类提供了各种</p>\n<br/><p>访问 <a href=\"www.hokitan.xyz/posts/C Sharp之Array、ArrayList和List的区别\" target=\"_blank\">www.hokitan.xyz/posts/C Sharp之Array、ArrayList和List的区别</a> 阅读全文。</p>",
+            "url": "www.hokitan.xyz/posts/C Sharp之Array、ArrayList和List的区别",
             "title": "C# Array、ArrayList和List的区别",
             "date_modified": "2022-05-30T17:02:23.000Z",
             "date_published": "2025-09-22T15:24:18.756Z",
@@ -131,9 +131,9 @@
             }
         },
         {
-            "id": "hokitan.xyz/posts/hello-valaxy",
-            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n<br/><p>访问 <a href=\"hokitan.xyz/posts/hello-valaxy\" target=\"_blank\">hokitan.xyz/posts/hello-valaxy</a> 阅读全文。</p>",
-            "url": "hokitan.xyz/posts/hello-valaxy",
+            "id": "www.hokitan.xyz/posts/hello-valaxy",
+            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n<br/><p>访问 <a href=\"www.hokitan.xyz/posts/hello-valaxy\" target=\"_blank\">www.hokitan.xyz/posts/hello-valaxy</a> 阅读全文。</p>",
+            "url": "www.hokitan.xyz/posts/hello-valaxy",
             "title": "Hello, Valaxy!",
             "date_modified": "2022-04-01T00:00:00.000Z",
             "date_published": "2022-04-01T00:00:00.000Z",

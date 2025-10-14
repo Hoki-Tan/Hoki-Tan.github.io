@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "www.hokitan.xyz/posts/设计模式",
+            "content_html": "<h1>C#设计模式</h1>\n<h2>设计模式概述</h2>\n<p>设计模式共<strong>23</strong>种。主要分为三部分：创建型模式、机构型模式、行为型模式。</p>\n<p>**创建型模式：**所有的模式都涉及到创建对象实例的方式。</p>\n<p>**结构型模</p>\n<br/><p>访问 <a href=\"www.hokitan.xyz/posts/设计模式\" target=\"_blank\">www.hokitan.xyz/posts/设计模式</a> 阅读全文。</p>",
+            "url": "www.hokitan.xyz/posts/设计模式",
+            "title": "C# 设计模式",
+            "date_modified": "2022-06-30T21:38:47.000Z",
+            "date_published": "2025-10-14T18:09:17.254Z",
+            "author": {
+                "name": "Hokit",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "www.hokitan.xyz/posts/Unity客户端面试",
+            "content_html": "<h1>面试</h1>\n<h2>🌙Unity</h2>\n<h3>生命周期问题</h3>\n<ul>\n<li>\n<p><strong>Awake</strong></p>\n<p>当一个脚本实例被载入时Awake被调用。我们大多在这个类中完成成员变量的初始化</p>\n</li>\n<li>\n<p>**OnEnab</p>\n</li>\n</ul>\n<br/><p>访问 <a href=\"www.hokitan.xyz/posts/Unity客户端面试\" target=\"_blank\">www.hokitan.xyz/posts/Unity客户端面试</a> 阅读全文。</p>",
+            "url": "www.hokitan.xyz/posts/Unity客户端面试",
+            "title": "Unity 客户端面试",
+            "date_modified": "2023-02-01T22:44:00.000Z",
+            "date_published": "2025-10-14T13:34:28.640Z",
+            "author": {
+                "name": "Hokit",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "www.hokitan.xyz/posts/Cocos客户端面试",
+            "content_html": "<h1>Cocos 客户端面试</h1>\n<p>**转自：[面试常见问题.note](<a href=\"https://share.note.youdao.com/ynoteshare/index.html?id=8e4cb55\">https://share.note.youdao.com/ynoteshare/index.html?id=8e4cb55</a></p>\n<br/><p>访问 <a href=\"www.hokitan.xyz/posts/Cocos客户端面试\" target=\"_blank\">www.hokitan.xyz/posts/Cocos客户端面试</a> 阅读全文。</p>",
+            "url": "www.hokitan.xyz/posts/Cocos客户端面试",
+            "title": "Cocos客户端面试",
+            "date_modified": "2025-10-01T09:30:44.000Z",
+            "date_published": "2025-10-14T11:03:39.929Z",
+            "author": {
+                "name": "Hokit",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
             "id": "www.hokitan.xyz/posts/Unity AI之行为树",
             "content_html": "<h1>Unity 游戏AI之行为树</h1>\n<h2><strong>游戏AI - 行为树Part1：简介</strong></h2>\n<p>游戏中的AI，大多数都是按照规则设定好的，没有太多花哨的技术。原因有几个：</p>\n<p>一是出于风险成本的考虑，用一个</p>\n<br/><p>访问 <a href=\"www.hokitan.xyz/posts/Unity AI之行为树\" target=\"_blank\">www.hokitan.xyz/posts/Unity AI之行为树</a> 阅读全文。</p>",
             "url": "www.hokitan.xyz/posts/Unity AI之行为树",
@@ -71,36 +107,12 @@
             }
         },
         {
-            "id": "www.hokitan.xyz/posts/Unity客户端面试",
-            "content_html": "<h1>面试</h1>\n<h2>🌙Unity</h2>\n<h3>生命周期问题</h3>\n<ul>\n<li>\n<p><strong>Awake</strong></p>\n<p>当一个脚本实例被载入时Awake被调用。我们大多在这个类中完成成员变量的初始化</p>\n</li>\n<li>\n<p>**OnEnab</p>\n</li>\n</ul>\n<br/><p>访问 <a href=\"www.hokitan.xyz/posts/Unity客户端面试\" target=\"_blank\">www.hokitan.xyz/posts/Unity客户端面试</a> 阅读全文。</p>",
-            "url": "www.hokitan.xyz/posts/Unity客户端面试",
-            "title": "Unity 客户端面试",
-            "date_modified": "2023-02-01T22:44:00.000Z",
-            "date_published": "2025-09-22T15:46:24.741Z",
-            "author": {
-                "name": "Hokit",
-                "url": "https://valaxy.site"
-            }
-        },
-        {
             "id": "www.hokitan.xyz/posts/Git&&CMD",
             "content_html": "<h2>CMD常用目录</h2>\n<pre><code class=\"language-tex\">-命令行指令ls, 列出目录(文件夹)下文件, ls for list\n-l, 以每行一个的格式列出文件, l for long\n-a, 列出包含隐藏文件的</code></pre>\n<br/><p>访问 <a href=\"www.hokitan.xyz/posts/Git&&CMD\" target=\"_blank\">www.hokitan.xyz/posts/Git&&CMD</a> 阅读全文。</p>",
             "url": "www.hokitan.xyz/posts/Git&&CMD",
             "title": "命令行指令和git学习",
             "date_modified": "2023-09-03T01:15:47.000Z",
             "date_published": "2025-09-22T15:43:19.951Z",
-            "author": {
-                "name": "Hokit",
-                "url": "https://valaxy.site"
-            }
-        },
-        {
-            "id": "www.hokitan.xyz/posts/设计模式",
-            "content_html": "<h1>C#设计模式</h1>\n<h2>设计模式概述</h2>\n<p>设计模式共<strong>23</strong>种。主要分为三部分：创建型模式、机构型模式、行为型模式。</p>\n<p>**创建型模式：**所有的模式都涉及到创建对象实例的方式。</p>\n<p>**结构型模</p>\n<br/><p>访问 <a href=\"www.hokitan.xyz/posts/设计模式\" target=\"_blank\">www.hokitan.xyz/posts/设计模式</a> 阅读全文。</p>",
-            "url": "www.hokitan.xyz/posts/设计模式",
-            "title": "C# 设计模式",
-            "date_modified": "2022-06-30T21:38:47.000Z",
-            "date_published": "2025-09-22T15:38:18.273Z",
             "author": {
                 "name": "Hokit",
                 "url": "https://valaxy.site"

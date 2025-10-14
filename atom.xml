@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>www.hokitan.xyz/</id>
     <title>Hokit Blog | 好吉小站</title>
-    <updated>2025-09-22T17:53:33.744Z</updated>
+    <updated>2025-10-14T18:22:57.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Hokit</name>
@@ -15,6 +15,64 @@
     <logo>https://img.alicdn.com/imgextra/i2/3343836081/O1CN01DK4pig1un9Z4a4h1m_!!3343836081.png</logo>
     <icon>www.hokitan.xyz/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2025 © Hokit</rights>
+    <entry>
+        <title type="html"><![CDATA[C# 设计模式]]></title>
+        <id>www.hokitan.xyz/posts/设计模式</id>
+        <link href="www.hokitan.xyz/posts/设计模式"/>
+        <updated>2022-06-30T21:38:47.000Z</updated>
+        <content type="html"><![CDATA[<h1>C#设计模式</h1>
+<h2>设计模式概述</h2>
+<p>设计模式共<strong>23</strong>种。主要分为三部分：创建型模式、机构型模式、行为型模式。</p>
+<p>**创建型模式：**所有的模式都涉及到创建对象实例的方式。</p>
+<p>**结构型模</p>
+<br/><p>访问 <a href="www.hokitan.xyz/posts/设计模式" target="_blank">www.hokitan.xyz/posts/设计模式</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Hokit</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-14T18:09:17.254Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity 客户端面试]]></title>
+        <id>www.hokitan.xyz/posts/Unity客户端面试</id>
+        <link href="www.hokitan.xyz/posts/Unity客户端面试"/>
+        <updated>2023-02-01T22:44:00.000Z</updated>
+        <content type="html"><![CDATA[<h1>面试</h1>
+<h2>🌙Unity</h2>
+<h3>生命周期问题</h3>
+<ul>
+<li>
+<p><strong>Awake</strong></p>
+<p>当一个脚本实例被载入时Awake被调用。我们大多在这个类中完成成员变量的初始化</p>
+</li>
+<li>
+<p>**OnEnab</p>
+</li>
+</ul>
+<br/><p>访问 <a href="www.hokitan.xyz/posts/Unity客户端面试" target="_blank">www.hokitan.xyz/posts/Unity客户端面试</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Hokit</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-14T13:34:28.640Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cocos客户端面试]]></title>
+        <id>www.hokitan.xyz/posts/Cocos客户端面试</id>
+        <link href="www.hokitan.xyz/posts/Cocos客户端面试"/>
+        <updated>2025-10-01T09:30:44.000Z</updated>
+        <content type="html"><![CDATA[<h1>Cocos 客户端面试</h1>
+<p>**转自：[面试常见问题.note](<a href="https://share.note.youdao.com/ynoteshare/index.html?id=8e4cb55">https://share.note.youdao.com/ynoteshare/index.html?id=8e4cb55</a></p>
+<br/><p>访问 <a href="www.hokitan.xyz/posts/Cocos客户端面试" target="_blank">www.hokitan.xyz/posts/Cocos客户端面试</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Hokit</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-14T11:03:39.929Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unity 游戏AI之行为树]]></title>
         <id>www.hokitan.xyz/posts/Unity AI之行为树</id>
@@ -108,31 +166,6 @@ using </code></pre>
         <published>2025-09-22T15:49:37.442Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unity 客户端面试]]></title>
-        <id>www.hokitan.xyz/posts/Unity客户端面试</id>
-        <link href="www.hokitan.xyz/posts/Unity客户端面试"/>
-        <updated>2023-02-01T22:44:00.000Z</updated>
-        <content type="html"><![CDATA[<h1>面试</h1>
-<h2>🌙Unity</h2>
-<h3>生命周期问题</h3>
-<ul>
-<li>
-<p><strong>Awake</strong></p>
-<p>当一个脚本实例被载入时Awake被调用。我们大多在这个类中完成成员变量的初始化</p>
-</li>
-<li>
-<p>**OnEnab</p>
-</li>
-</ul>
-<br/><p>访问 <a href="www.hokitan.xyz/posts/Unity客户端面试" target="_blank">www.hokitan.xyz/posts/Unity客户端面试</a> 阅读全文。</p>]]></content>
-        <author>
-            <name>Hokit</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2025-09-22T15:46:24.741Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[命令行指令和git学习]]></title>
         <id>www.hokitan.xyz/posts/Git&amp;&amp;CMD</id>
         <link href="www.hokitan.xyz/posts/Git&amp;&amp;CMD"/>
@@ -148,24 +181,6 @@ using </code></pre>
             <uri>https://valaxy.site</uri>
         </author>
         <published>2025-09-22T15:43:19.951Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C# 设计模式]]></title>
-        <id>www.hokitan.xyz/posts/设计模式</id>
-        <link href="www.hokitan.xyz/posts/设计模式"/>
-        <updated>2022-06-30T21:38:47.000Z</updated>
-        <content type="html"><![CDATA[<h1>C#设计模式</h1>
-<h2>设计模式概述</h2>
-<p>设计模式共<strong>23</strong>种。主要分为三部分：创建型模式、机构型模式、行为型模式。</p>
-<p>**创建型模式：**所有的模式都涉及到创建对象实例的方式。</p>
-<p>**结构型模</p>
-<br/><p>访问 <a href="www.hokitan.xyz/posts/设计模式" target="_blank">www.hokitan.xyz/posts/设计模式</a> 阅读全文。</p>]]></content>
-        <author>
-            <name>Hokit</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2025-09-22T15:38:18.273Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[C# 连接数据库]]></title>

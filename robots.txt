@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: www.hokitan.xyz/sitemap.xml

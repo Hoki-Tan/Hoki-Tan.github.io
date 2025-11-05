@@ -4,7 +4,7 @@
         <title>Hokit Blog | 好吉小站</title>
         <link>www.hokitan.xyz/</link>
         <description>世界上只有一种英雄主义，就是在认清生活真相之后依然热爱生活。</description>
-        <lastBuildDate>Tue, 14 Oct 2025 18:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Nov 2025 05:32:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -15,10 +15,28 @@
         <copyright>CC BY-NC-SA 4.0 2025 © Hokit</copyright>
         <atom:link href="www.hokitan.xyz/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Cocos客户端面试]]></title>
+            <link>www.hokitan.xyz/posts/Cocos客户端面试</link>
+            <guid isPermaLink="false">www.hokitan.xyz/posts/Cocos客户端面试</guid>
+            <pubDate>Tue, 04 Nov 2025 16:53:12 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>Cocos 客户端面试</h1>
+<h2>TypeScript相关</h2>
+<ol>
+<li>
+<p><strong>TypeScript 中 <code>let</code>、<code>const</code> 和 <code>var</code> 有什么区别？</strong></p>
+<ul>
+<li>你能描述</li>
+</ul>
+</li>
+</ol>
+<br/><p>访问 <a href="www.hokitan.xyz/posts/Cocos客户端面试" target="_blank">www.hokitan.xyz/posts/Cocos客户端面试</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (Hokit)</author>
+        </item>
+        <item>
             <title><![CDATA[C# 设计模式]]></title>
             <link>www.hokitan.xyz/posts/设计模式</link>
             <guid isPermaLink="false">www.hokitan.xyz/posts/设计模式</guid>
-            <pubDate>Tue, 14 Oct 2025 18:09:17 GMT</pubDate>
+            <pubDate>Wed, 15 Oct 2025 03:37:57 GMT</pubDate>
             <content:encoded><![CDATA[<h1>C#设计模式</h1>
 <h2>设计模式概述</h2>
 <p>设计模式共<strong>23</strong>种。主要分为三部分：创建型模式、机构型模式、行为型模式。</p>
@@ -45,16 +63,6 @@
 </li>
 </ul>
 <br/><p>访问 <a href="www.hokitan.xyz/posts/Unity客户端面试" target="_blank">www.hokitan.xyz/posts/Unity客户端面试</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (Hokit)</author>
-        </item>
-        <item>
-            <title><![CDATA[Cocos客户端面试]]></title>
-            <link>www.hokitan.xyz/posts/Cocos客户端面试</link>
-            <guid isPermaLink="false">www.hokitan.xyz/posts/Cocos客户端面试</guid>
-            <pubDate>Tue, 14 Oct 2025 11:03:39 GMT</pubDate>
-            <content:encoded><![CDATA[<h1>Cocos 客户端面试</h1>
-<p>**转自：[面试常见问题.note](<a href="https://share.note.youdao.com/ynoteshare/index.html?id=8e4cb55">https://share.note.youdao.com/ynoteshare/index.html?id=8e4cb55</a></p>
-<br/><p>访问 <a href="www.hokitan.xyz/posts/Cocos客户端面试" target="_blank">www.hokitan.xyz/posts/Cocos客户端面试</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (Hokit)</author>
         </item>
         <item>
